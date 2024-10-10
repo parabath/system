@@ -1,0 +1,29 @@
+0001,nandhaloka_thero|liver_damaged  |tel_074-225-53256|0001|not_data
+0002,am_chandralatha |breast_cancer  |tel_077-557-4052 |0002|died
+0003,nithin_dhananja |head_inflection|tel_070-275-5850 |0003|live
+0004,shanuka         |lieukemia      |tel_076-130-2628 |0004|not_data
+0005,dhewki_nethulya |cancer         |tel_077-729-4041 |0005|not_data
+0006,siriya_daughter |backbone_edge  |tel_076-722-2060 |0006|not_data
+0007,dhileep_kumara  |lieukemia      |tel_076-998-4332 |0007|cured
+0008,dhinesh         |lieukemia      |tel_077-980-5145 |0008|died
+0009,dhinidhu_pabasa |lieukemia      |tel_071-814-4666 |0009|in_hospital
+0010,kumarasingha    |kidney_failier |tel_071-600-6007 |0010|in_hospital
+0011,iresha_charuni  |cancer         |tel_077-865-1904 |0011|not_data
+0012,jinadhari_bro   |kidney_failier |tel_071-740-0266 |0012|not_data
+0013,kumari_teacher  |kidney_failier |tel_071-286-6006 |0013|cured
+0014,laksiri_siriwar.|kidney_failier |tel_075-965-4654 |0014|not_data
+0015,lihini_yashodha |kidney_failier |tel_071-616-2818 |0015|not_data
+0016,ma_chandrarathna|cardio_failier |not_data_found   |0016|not_data
+0017,nadeeka_sanjeew.|kidney_failier |tel_070-368-5574 |0017|not_data
+0018,pnp_swarnamala  |cardio_failier |tel_072-560-6370 |0018|not_data
+0019,saveen_son      |liver_failier  |tel_076-923-5613 |0019|not_data
+0020,yenuli_dimansa  |lieukemia      |tel_071-481-2575 |0020|not_data
+0021,--------------  |syrosis        |tel_076-730-0005 |0021|not_data
+0022,hayath_rskin    |kidney_failier |tel_072-910-1505 |0022|not_data
+0023,romesh_gt       |lieukemia      |tel_             |0023|not_data
+0024,pramodh         |cancer         |tel_             |0024|not_data
+0025,jerom_emiliyan  |lieukemia      |tel_076-565-4554 |0025|not_data
+0026,--------------  |kidney_damaged |tel_076-915-5823 |0026|not_data
+0027,--------------  |cancer         |tel_077-322-0286 |0027|not_data
+0028,hiranthi        |kidney_failier |tel_077-252-8211 |0028|not_data
+0029,sanjaya         |kidney_failier |tel_070-154-3209 |0029|not_data
