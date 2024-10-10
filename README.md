@@ -1,5 +1,5 @@
 
-** mudhitha & karuna**
+**mudhitha & karuna**
 I made a _system for manage patients_ that i collected in ceylon.
 Main system runs on python codes. recomended library is PANDA-3D(pip3 install panda3d)
 I want to say if you run this system you should unzip the lib.zip
